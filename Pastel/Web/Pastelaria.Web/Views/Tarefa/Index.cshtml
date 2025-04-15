@@ -1,0 +1,22 @@
+﻿<div id="div-grid-tarefas"></div> <!-- Aqui sera reenderizado Lista de usuario-->
+<div id="div-add-tarefa"></div> <!-- Aqui sera reenderizado tela de adicionar  usuario-->
+<div id="div-editar-tarefa "></div> <!-- Aqui sera reenderizado tela de editar  usuario-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> <!-- Essa linha carrega a biblioteca jQuery versão 3.6.0 do CDN do Googleapis.
+O jQuery é uma biblioteca de JavaScript que simplifica a manipulação de documentos HTML,
+manipulação de eventos, animações e chamadas AJAX.-->
+
+<script  type="text/javascript"src="~/Lib/usuario/usuario.js?d=@DateTime.Now.Ticks"></script>  <!-- Aqui estou importando meu aquivo.js-->
+<script>
+    // chamar as views
+    usuarios.init({
+        urls: {
+            getGridTarefas: '@Url.Action("ListaTarefas", "Tarefa")',
+            buscarTelaAddTarefa: '@Url.Action("Adicionar", "Tarefa")',
+            concluirTarefa: '@Url.Action("Concluir", "Tarefa")',
+            excluirTarefa:'@Url.Action("Deletar", "Tarefa")',
+           }
+    });
+
+</script>
+

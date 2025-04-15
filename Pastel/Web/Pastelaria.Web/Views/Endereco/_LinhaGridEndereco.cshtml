@@ -1,0 +1,20 @@
+﻿@model Pastelaria.Web.Application.Endereco.Model.EnderecoModel
+@{
+    Layout = null;
+    var endereco = Model;
+}
+
+<tr data-id="@endereco.IdEndereco">
+    <td><i class="fas fa-map-marker-alt"></i></td>
+    <td data-label="cep" data-name="Cep">@endereco.Cep</td>
+    <td data-label="cep" data-name="Cidade">@endereco.Cidade</td>
+    <td data-label="cep" data-name="Bairro">@endereco.Bairro</td>
+    <td data-label="cep" data-name="Rua">@endereco.Rua</td>
+    <td data-label="cep" data-name="Numero">@endereco.Numero</td>
+    <td data-label="cep" data-name="Complemento">@endereco.Complemento</td>
+    <td data-label="">
+        <a class="btn btn-danger btn-sm" onclick="usuarios.deletarEndereco(@Model.IdEndereco)" title="Excluir endereço">
+            <i class="fas fa-trash-alt"></i>
+        </a>
+    </td>
+</tr>

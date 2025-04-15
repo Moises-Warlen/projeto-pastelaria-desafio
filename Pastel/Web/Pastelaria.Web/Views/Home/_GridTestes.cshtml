@@ -1,0 +1,35 @@
+﻿@{ Layout = null; }
+
+@using System.Linq
+@model IEnumerable<Pastelaria.Web.Application.Teste.Model.TesteModel>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Identificador</th>
+            <th>Descrição</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+            {
+                foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Descricao</td>
+                    <td class="button-wrap">
+                        <button class="" title="Editar"><i class="fa fa-pencil-square"></i></button>
+                        <button class="" title="Exluir"><i class="fa fa-times-circle"></i></button>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr><td colspan="3">Nenhum registro encontrado...</td></tr>
+        }
+    </tbody>
+</table>
+<button type="button" class="btn btn-primary">Novo</button>

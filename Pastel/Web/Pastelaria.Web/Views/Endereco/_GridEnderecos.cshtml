@@ -1,0 +1,30 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Pastelaria.Web.Application.Endereco.Model.EnderecoModel>
+<!-- Título principal da tabela -->
+
+<table class="table table-striped" id="endereco">
+    <thead>
+        <tr>
+            <th></th>
+            <th>CEP</th>
+            <th>Cidade</th>
+            <th>Bairro</th>
+            <th>Rua</th>
+            <th>Numero</th>
+            <th>Complemento</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop para cada telefone -->
+        @if (Model != null && Model.Any())
+        {
+            foreach (var endereco in Model)
+            {
+                @Html.Partial("~/Views/Endereco/_LinhaGridEndereco.cshtml", endereco)
+            }
+        }
+    </tbody>
+</table>
+

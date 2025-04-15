@@ -1,0 +1,27 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Pastelaria.Web.Application.Telefone.Model.TelefoneModel>
+<!-- Título principal da tabela -->
+
+<table class="table table-striped" id="telefone">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Telefone</th>
+            <th>Tipo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop para cada telefone -->
+        @if (Model != null && Model.Any())
+        {
+            foreach (var telefone in Model)
+            {
+                @Html.Partial("~/Views/Telefone/_LinhaGridTelefone.cshtml", telefone)
+            }
+        }
+    </tbody>
+</table>
+
+

@@ -1,0 +1,85 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Pastelaria.Web.Application.Tarefa.Model.TarefaModel>
+
+
+@if (ViewBag.IdPerfil == 1)
+{
+    <div id="btnAddAdicionarTarefa">
+        <a class="btn btn-success float-right" onclick="usuarios.buscarTelaAddTarefa()">
+            Cadastrar
+        </a>
+    </div>
+}
+
+<div id="concluido">
+    @if (TempData["MensagemConcluidoComSucesso"] != null)
+    {
+        <div class="alert alert-success" id="msg">@TempData["MensagemConcluidoComSucesso"]</div>
+    }
+    <script>
+    setTimeout(function() {
+        document.getElementById("concluido").style.display = 'none';
+    }, 2000);
+    </script>
+</div>
+<div id="msg">
+        @if (TempData["MensagemSucesso"] != null)
+        {
+            <div class="alert alert-success" id="msg">@TempData["MensagemSucesso"]</div>
+        }
+        <script>
+    setTimeout(function() {
+        document.getElementById("msg").style.display = 'none';
+    }, 2000);
+        </script>
+
+</div>
+
+
+<div id="excluida">
+    @if (TempData["tarefaexcluida"] != null)
+    { <div class="alert alert-danger" id="msg">@TempData["tarefaexcluida"]</div>
+    }
+    <script>
+    setTimeout(function() {
+        document.getElementById("excluida").style.display = 'none';
+    }, 2000);
+    </script>
+</div>
+
+
+    <h2 id="tituloTarefa" class="text-center">Tarefas</h2>
+    <!-- Título principal da tabela -->
+    <table class="table table-striped" id="tarefa">
+        <thead>
+            <tr>
+                <th>Descrição</th>
+                <th>Data de Atribuição</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var tarefa in Model)
+                {
+                    <tr>
+                        <td data-label="Descricao">@tarefa.Descricao</td>
+                        <td data-label="DataAtribuicao">@tarefa.DataAtribuicao.ToString("dd/MM/yyyy")</td>
+                        <td data-label="">
+                            <a class="btn btn-success btn-sm" onclick="usuarios.concluirTarefa(@tarefa.IdTarefa)" title="concluir tarefa">
+                                <i class="fas fa-check-circle"></i>
+                            </a>
+                            @if (ViewBag.IdPerfil == 1)
+                            {
+                                <a class="btn btn-danger btn-sm" onclick="usuarios.excluirTarefa(@tarefa.IdTarefa)" title="deletar tarefa">
+                                    <i class="fas fa-trash-alt"></i>
+                                </a>
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>

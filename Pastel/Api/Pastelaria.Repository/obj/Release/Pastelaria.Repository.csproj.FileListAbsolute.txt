@@ -1,0 +1,7 @@
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Release\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Release\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Release\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Release\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\obj\Release\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\obj\Release\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\obj\Release\Pastelaria.Repository.pdb

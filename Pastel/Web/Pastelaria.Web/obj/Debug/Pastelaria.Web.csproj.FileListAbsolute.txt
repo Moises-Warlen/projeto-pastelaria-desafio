@@ -1,0 +1,1070 @@
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+D:\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\novo projeto\projeto\ProjetoPatelariaMVC-DDD-API\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastel100ok\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll.config
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csproj.AssemblyReference.cache
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.csproj.CopyComplete
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web\obj\Debug\Pastelaria.Web.pdb

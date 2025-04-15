@@ -1,0 +1,249 @@
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+D:\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Videos\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csproj.AssemblyReference.cache
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.csproj.CopyComplete
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Web\Pastelaria.Web.Application\obj\Debug\Pastelaria.Web.Application.pdb

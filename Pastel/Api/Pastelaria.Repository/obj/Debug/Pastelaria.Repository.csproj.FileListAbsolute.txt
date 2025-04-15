@@ -1,0 +1,107 @@
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+D:\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+D:\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Documents\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Projeto-Desafio-Pastelaria-SMN\Projeto-Desafio-Pastelaria-SMN\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Pictures\Pastel\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Videos\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Videos\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\novo projeto\ProjetoPatelariaMVC-DDD-API\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Music\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\Nova pasta\bkp\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csproj.AssemblyReference.cache
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csproj.CopyComplete
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Users\Moises\Desktop\projetos\progeto desafio pastelaria\Pastelaria\Pastelaria\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb

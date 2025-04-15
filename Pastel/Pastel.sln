@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastelaria.Web", "Web\Pastelaria.Web\Pastelaria.Web.csproj", "{AB4BF7E5-8793-44C3-9999-9CCD3FC5A178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastelaria.Web.Application", "Web\Pastelaria.Web.Application\Pastelaria.Web.Application.csproj", "{8F60787B-E017-483A-8F40-C75CF69D0602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastelaria.Api", "Api\Pastelaria.Api\Pastelaria.Api.csproj", "{E69DADFD-09B8-499F-8199-CB1144394694}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Web", "1 - Web", "{5F326E76-C333-44AB-91AD-DD0AAC93DBD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Api", "2 - Api", "{FB8EFB46-809B-41F5-A27C-18972B59BECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastelaria.Domain", "Api\Pastelaria.Domain\Pastelaria.Domain.csproj", "{606C834B-6E22-41BA-BA9D-62FA502DEAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pastelaria.Repository", "Api\Pastelaria.Repository\Pastelaria.Repository.csproj", "{DC160029-0764-409A-8349-4C32E24068E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4BF7E5-8793-44C3-9999-9CCD3FC5A178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4BF7E5-8793-44C3-9999-9CCD3FC5A178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4BF7E5-8793-44C3-9999-9CCD3FC5A178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4BF7E5-8793-44C3-9999-9CCD3FC5A178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F60787B-E017-483A-8F40-C75CF69D0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F60787B-E017-483A-8F40-C75CF69D0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F60787B-E017-483A-8F40-C75CF69D0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F60787B-E017-483A-8F40-C75CF69D0602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69DADFD-09B8-499F-8199-CB1144394694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69DADFD-09B8-499F-8199-CB1144394694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69DADFD-09B8-499F-8199-CB1144394694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69DADFD-09B8-499F-8199-CB1144394694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606C834B-6E22-41BA-BA9D-62FA502DEAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606C834B-6E22-41BA-BA9D-62FA502DEAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606C834B-6E22-41BA-BA9D-62FA502DEAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606C834B-6E22-41BA-BA9D-62FA502DEAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC160029-0764-409A-8349-4C32E24068E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC160029-0764-409A-8349-4C32E24068E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC160029-0764-409A-8349-4C32E24068E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC160029-0764-409A-8349-4C32E24068E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB4BF7E5-8793-44C3-9999-9CCD3FC5A178} = {5F326E76-C333-44AB-91AD-DD0AAC93DBD1}
+		{8F60787B-E017-483A-8F40-C75CF69D0602} = {5F326E76-C333-44AB-91AD-DD0AAC93DBD1}
+		{E69DADFD-09B8-499F-8199-CB1144394694} = {FB8EFB46-809B-41F5-A27C-18972B59BECB}
+		{606C834B-6E22-41BA-BA9D-62FA502DEAF7} = {FB8EFB46-809B-41F5-A27C-18972B59BECB}
+		{DC160029-0764-409A-8349-4C32E24068E3} = {FB8EFB46-809B-41F5-A27C-18972B59BECB}
+	EndGlobalSection
+EndGlobal

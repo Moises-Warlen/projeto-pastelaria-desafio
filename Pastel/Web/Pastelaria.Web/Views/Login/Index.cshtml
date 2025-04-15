@@ -1,0 +1,80 @@
+﻿@model Pastelaria.Web.Application.Usuario.Model.UsuarioModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Content/LoginStyle.css">
+   
+    <title>Login</title>
+</head>
+<body>
+
+  
+    <div id="logreg-forms">
+        @using (Html.BeginForm("PostLogin", "Usuario", FormMethod.Post, new { @class = "form-signin" }))
+        {
+            <p style="text-align:center">
+                <img src="~/Imagens/logoPastelaria.png" alt="Logotipo" width="170">
+            </p>
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label" })
+                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Digite Seu Email", required = "required", autofocus = "autofocus" })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label" })
+                @Html.PasswordFor(model => model.Senha, new { @class = "form-control", placeholder = "Digite sua senha", required = "required" })
+                @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+            </div>
+
+            <button class="btn btn-success btn-block" type="submit">
+                <i class="fas fa-sign-in-alt"></i> Entrar
+            </button>
+
+            <hr>
+
+        }
+        <br>
+        <div id="mensagemErro" style="display:none; background-color: red; color: white; padding: 10px; margin: 10px 0;">
+            @if (TempData["MensagemErro"] != null)
+            {
+                @TempData["MensagemErro"]
+            }
+        </div>
+
+        <script>
+    // Verifica se há uma mensagem de erro no TempData
+    document.addEventListener("DOMContentLoaded", function() {
+        var mensagemErro = document.getElementById("mensagemErro");
+
+        // Se a mensagem de erro estiver presente
+        if (mensagemErro.innerHTML.trim() !== "") {
+            // Exibe a mensagem
+            mensagemErro.style.display = "block";
+
+            // Define um timer para fechar a mensagem após 1 segundo (1000 milissegundos)
+            setTimeout(function() {
+                mensagemErro.style.display = "none";
+            }, 2000);
+        }
+    });
+        </script>
+
+
+    </div>
+
+</body>
+</html>

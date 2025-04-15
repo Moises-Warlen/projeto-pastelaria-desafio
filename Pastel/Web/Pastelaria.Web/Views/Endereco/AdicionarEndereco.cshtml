@@ -1,0 +1,43 @@
+﻿@{ Layout = null; }
+@using System.Linq
+
+<h4> Adicionar Endereço</h4>
+
+<div class="row">
+    <div class="col-sm-2 mb-2">
+        <label for="cep" class="sr-only">CEP</label>
+        <input type="text" class="form-control" id="cep" placeholder="CEP" name="Cep">
+    </div>
+    <div class="col-sm-2 mb-2">
+        <label for="cidade" class="sr-only">Cidade</label>
+        <input type="text" class="form-control" id="cidade" placeholder="Cidade" name="Cidade">
+    </div>
+    <div class="col-sm-2 mb-2">
+        <label for="bairro" class="sr-only">Bairro</label>
+        <input type="text" class="form-control" id="bairro" placeholder="Bairro" name="Bairro">
+    </div>
+    <div class="col-sm-4 mb-2">
+        <label for="rua" class="sr-only">Rua</label>
+        <input type="text" class="form-control" id="rua" placeholder="Rua" name="Rua">
+    </div>
+    <div class="col-sm-2 mb-2">
+        <label for="numero" class="sr-only">Número</label>
+        <input type="text" class="form-control" id="numero" placeholder="Número" name="Numero">
+    </div>
+
+    <div class="col-sm-3 mb-2">
+        <label for="complemento" class="sr-only">Complemento</label>
+        <input type="text" class="form-control" id="complemento" placeholder="Complemento" name="Complemento">
+    </div>
+
+</div>
+<br />
+<hr />
+<!-- Botão para cancelar  -->
+<a onclick="$('div#formEndereco').hide()" class="btn btn-warning btn-sm" title="cancelar e voltar para lista de usuarios"><i class="fas fa-xmark"></i>
+</a>
+
+<button type="button" class="btn btn-success btn-sm" title="salvar usuario" onclick="usuarios.inserirEndereco();">
+    <i class="fas fa-save icon-save"></i>
+</button>
+        

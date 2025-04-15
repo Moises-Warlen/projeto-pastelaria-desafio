@@ -1,0 +1,72 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Pastelaria.Web.Application.Usuario.Model.UsuarioModel>
+
+<div id="btnAddAdicionarUsuario">
+    <a class="btn btn-success float-right" onclick="usuarios.buscarTelaAtualizarUsuario()">
+        Cadastrar
+    </a>
+</div>
+<div id="msguser">
+    @if (TempData["Msguser"] != null)
+    {
+        <div class="alert alert-success" id="msguser">@TempData["Msguser"]</div>
+    }
+    <script>
+    setTimeout(function() {
+        document.getElementById("msguser").style.display = 'none';
+    }, 2000);
+    </script>
+
+</div>
+
+<div id="uDeletado">
+    @if (TempData["userDeletado"] != null)
+    {
+        <div class="alert alert-danger" id="uDeletado">@TempData["userDeletado"]</div>
+    }
+    <script>
+        setTimeout(function() {
+            document.getElementById("uDeletado").style.display = 'none';
+        }, 2000);
+    </script>
+</div>
+<!-- Título principal da tabela -->
+<h2 id="tituloUsuarios" class="text-center">Usuários</h2>
+
+<table class="table table-striped" id="usuarios">
+    <thead>
+        <tr>
+            <th>Usuário</th>
+            <th>Email</th>
+            <th>Data Nascimento</th>
+            <th>Perfil</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop para cada usuário -->
+        @if (Model != null && Model.Any())
+            {
+                foreach (var usuario in Model)
+                {
+                <tr>
+
+                    <td data-label="Usuário">@usuario.Nome</td>
+                    <td data-label="Email">@usuario.Email</td>
+                    <td data-label="DataNascimento">@usuario.DataNascimento.ToString("dd/MM/yyyy")</td>
+                    <td data-label="Perfil">@usuario.Perfil.Tipo</td>
+                    <td data-label="">
+                        <a class="btn btn-primary btn-sm" onclick="usuarios.buscarTelaAtualizarUsuario(@usuario.IdUsuario)" title="Editar usuário">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a class="btn btn-danger btn-sm" onclick="usuarios.deletarUsuario(@usuario.IdUsuario)" title="Excluir usuário">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

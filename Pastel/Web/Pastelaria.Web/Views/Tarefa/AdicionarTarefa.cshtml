@@ -1,0 +1,42 @@
+﻿@{ Layout = null; }
+
+@model Pastelaria.Web.Application.Tarefa.Model.TarefaModel
+
+
+
+<form method="post" action="@Url.Action("Post", "Tarefa")" id="tarefaForm">
+    <div class="row">
+        <!-- Dropdown para seleção de usuário -->
+        <div class="col-sm-6 mb-6" title="Usuário">
+            <label for="usuario" class="sr-only">Usuário</label>
+            <select class="form-control select usuario" id="usuario" name="IdUsuario">
+                <option value="">Selecione um usuário</option>
+                @foreach (var usuario in Model.Usuario)
+                {
+                    <option value="@usuario.IdUsuario">@usuario.Nome</option>
+                }
+            </select>
+        </div>
+        &nbsp;&nbsp;
+        <!-- Campo de descrição da tarefa -->
+        <div class="col-sm-6 mb-2">
+            <input type="text" class="form-control" name="Descricao" placeholder="Descrição" required>
+        </div>
+        <div class="col-sm-6 mb-2">
+            <input type="hidden" name="CriadorId" value="@ViewBag.Id" />
+        </div>
+    </div>
+    <br />
+    <br />
+    <hr />
+    <!-- Botões de ação -->
+    <div class="">
+        <a href="@Url.Action("Index", "Tarefa")" class="btn btn-warning btn-sm" title="Cancelar">
+            CANCELAR
+        </a>
+        <button type="submit" class="btn btn-success btn-sm" title="Salvar Tarefa">
+            SALVAR
+        </button>
+    </div>
+</form>
+

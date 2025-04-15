@@ -1,0 +1,15 @@
+﻿@model Pastelaria.Web.Application.Telefone.Model.TelefoneModel
+@{
+    Layout = null;
+}
+
+<tr data-id="@Model.IdTelefone">
+    <td><i class="fas fa-phone"></i></td>
+    <td data-label="telefone" data-name="Telefone">@Model.Telefone</td>
+    <td data-label="tipo" data-name="Tipo">@Model.Tipo</td>
+    <td data-label="">
+        <a class="btn btn-danger btn-sm" onclick="usuarios.deletarTelefone(@Model.IdTelefone)" title="Excluir telefone">
+            <i class="fas fa-trash-alt"></i>
+        </a>
+    </td>
+</tr>

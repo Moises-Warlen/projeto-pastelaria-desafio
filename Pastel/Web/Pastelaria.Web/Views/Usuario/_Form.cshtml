@@ -1,0 +1,132 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model Pastelaria.Web.Application.Usuario.Model.EditarUsuarioModel
+
+<div id="div-atualizar-usuario">
+    <br>
+    <div>
+        <h4>@(Model.Usuario.IdUsuario == 0 ? "Cadastrar Usuário" : "Editar Usuário")</h4>
+    </div>
+
+    <br />
+
+    <div id="formUsuario">
+        <input type="hidden" name="IdUsuario" value="@Model.Usuario.IdUsuario" />
+
+        <div class="row">
+            <div class="col-sm-2 mb-2">
+                <label for="nome" class="sr-only">Nome</label>
+                <input type="text" class="form-control" id="nome" placeholder="Nome" value="@Model.Usuario.Nome" name="Nome" required>
+            </div>
+            <div class="col-sm-3 mb-2">
+                <label for="email" class="sr-only">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Email"
+                       value="@Model.Usuario.Email" name="Email" required>
+            </div>
+
+            <div class="col-sm-2 mb-1">
+                <label for="senha" class="sr-only">Senha</label>
+                <input type="password" class="form-control" id="senha" placeholder="Senha" name="Senha"
+                     value="@((Model.Usuario.IdUsuario != 0) ? Model.Usuario.Senha : "")"
+
+                       Model.Usuario.Senha">
+            </div>
+
+            <div class="col-sm-2 mb-2">
+                <label for="datanascimento" class="sr-only">Data de Nascimento</label>
+                <input type="date" class="form-control" id="datanascimento"
+                       value="@Model.Usuario.DataNascimento.ToString("yyyy-MM-dd")"
+                       name="DataNascimento" required
+                       min="1920-01-01" max="2050-12-31">
+            </div>
+
+            <div class="col-sm-2 mb-2" title="Perfil">
+                <label for="perfil" class="sr-only">Perfil</label>
+                <select class="form-control" id="perfil" name="Perfil.IdPerfil" required>
+                    <option value="">Selecione um Perfil</option>
+                    @foreach (var perfil in Model.Perfil)
+                    {
+                        <option value="@perfil.IdPerfil" @(perfil.IdPerfil == Model.Usuario.Perfil?.IdPerfil ? "selected" : "")>@perfil.Tipo</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+
+    <div>
+        <h5>
+            Telefones
+            <a onclick="usuarios.buscarTelaAdicionarTelefone()" class="btn btn-success btn-sm float-right" title="Adicionar Novo Telefone">
+                <i class="fas fa-plus-circle"></i>
+            </a>
+        </h5>
+        <div id="formTelefone" style="display: none">@Html.Partial("~/Views/Telefone/AdicionarTelefone.cshtml")</div>
+    </div>
+
+    <div id="div-grid-telefone"> @Html.Partial("~/Views/Telefone/_GridTelefones.cshtml", Model.Usuario.Telefones) </div>
+
+    <hr />
+    <br /><br />
+
+    <div>
+        <h5>
+            Endereços
+            <a onclick="usuarios.buscarTelaAdicionarEndereco()" class="btn btn-success btn-sm float-right" title="Adicionar Novo Endereço">
+                <i class="fas fa-plus-circle"></i>
+            </a>
+        </h5>
+        <div id="formEndereco" style="display: none">@Html.Partial("~/Views/Endereco/AdicionarEndereco.cshtml")</div>
+    </div>
+
+    <div id="div-grid-endereco"> @Html.Partial("~/Views/Endereco/_GridEnderecos.cshtml", Model.Usuario.Enderecos)</div>
+
+    <hr />
+    <br /><br />
+
+    <a onclick="location.reload()" class="btn btn-warning btn-sm" title="cancelar e voltar para lista de usuários">CANCELAR</a>
+
+    <button type="button" class="btn btn-success btn-sm" title="salvar usuário" onclick="validarFormulario()">
+        SALVAR
+    </button>
+
+</div>
+<script>
+function validarFormulario() {
+    const nome = document.getElementById('nome').value.trim();
+    const email = document.getElementById('email').value.trim();
+    const senha = document.getElementById('senha').value.trim();
+    const dataNascimento = document.getElementById('datanascimento').value.trim();
+    const perfil = document.getElementById('perfil').value.trim();
+
+    let camposValidos = true;
+
+    // Verificar se os campos obrigatórios estão preenchidos
+    if (!nome) {
+        alert("Por favor, preencha o campo Nome.");
+        camposValidos = false;
+    }
+    if (!email) {
+        alert("Por favor, preencha o campo Email.");
+        camposValidos = false;
+    }
+    if (!senha && !document.querySelector('input[name="IdUsuario"]').value) {
+        alert("Por favor, preencha o campo Senha.");
+        camposValidos = false;
+    }
+    if (!dataNascimento) {
+        alert("Por favor, preencha o campo Data de Nascimento.");
+        camposValidos = false;
+    }
+    if (!perfil) {
+        alert("Por favor, selecione um Perfil.");
+        camposValidos = false;
+    }
+
+    // Se todos os campos estiverem válidos, chama a função de salvar
+    if (camposValidos) {
+        usuarios.salvar();
+    }
+}
+</script>

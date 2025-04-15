@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Atualizar Tarefa";
+}
+<div id="tabContent">
+    <h3>Editar Tarefa</h3>
+    <hr />
+    <form id="formEditarTarefa">
+        <!-- Campo para editar a data de conclusão da tarefa -->
+        <div class="form-group row">
+            <label for="DataConclusao" class="col-md-2 col-form-label">Data de Conclusão</label>
+            <div class="col-md-6">
+                <input type="date" class="form-control" id="DataConclusao" name="DataConclusao">
+            </div>
+        </div>
+
+        <!-- Checkbox para marcar se a tarefa está concluída -->
+        <div class="form-group row">
+            <label for="Ind_Ativo" class="col-md-2 col-form-label">Concluído</label>
+            <div class="col-md-4">
+                <div class="form-check">
+                    <input type="checkbox" id="Ind_Ativo" name="Ind_Ativo" class="form-check-input">
+                    <label class="form-check-label" for="Ind_Ativo">Sim</label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Botões para cancelar e salvar as alterações -->
+        <div class="form-group row">
+            <div class="col-md-12">
+                <!-- Botão para cancelar e voltar à lista de tarefas -->
+                <a href="@Url.Action("Index", "Tarefa")" class="btn btn-warning btn-sm" title="Cancelar">CANCELAR</a>
+                <!-- Botão para salvar as alterações no formulário -->
+                <button type="submit" class="btn btn-success btn-sm" title="Salvar Tarefa">SALVAR</button>
+            </div>
+        </div>
+    </form>
+    <hr>
+</div>

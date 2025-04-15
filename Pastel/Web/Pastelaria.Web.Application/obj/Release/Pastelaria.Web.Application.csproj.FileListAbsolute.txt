@@ -1,0 +1,17 @@
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Pastelaria.Web.Application.dll.config
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Pastelaria.Web.Application.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Pastelaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Pastelaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\bin\Release\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\obj\Release\Pastelaria.Web.Application.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\obj\Release\Pastelaria.Web.Application.dll
+C:\Users\Moises\Desktop\Pastel\Web\Pastelaria.Web.Application\obj\Release\Pastelaria.Web.Application.pdb

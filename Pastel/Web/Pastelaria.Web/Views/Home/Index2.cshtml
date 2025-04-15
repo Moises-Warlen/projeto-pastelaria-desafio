@@ -1,0 +1,28 @@
+﻿@model Pastelaria.Web.Application.Teste.Model.TesteModel
+<form onsubmit="home.getGrid(this); return false;" id="div-form">
+    <div class="form-group">
+        <label for="id">Identificador</label>
+        <input type="text" class="form-control" name="id" id="id" placeholder="Identificador" value="@Model.Id">
+    </div>
+    <div class="form-group">
+        <label for="descricao">Descrição</label>
+        <input type="text" class="form-control" name="descricao" id="descricao" placeholder="descricao" value="@Model.Descricao">
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+    <button type="button" onclick="home.post();" class="btn btn-primary">Cadastrar</button>
+</form>
+
+<div id="div-grid-testes"></div>
+
+
+<script src="~/Lib/home/home.js?@DateTime.Now.Ticks"></script>
+
+<script>
+    home.init({
+        urls: {
+            getGrid: '@Url.Action("GetGrid", "Home")',
+            post: '@Url.Action("Post", "Home")',
+
+        }
+    });
+</script>

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\WebPastel</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/Pastelaria.Web.Application.dll">
+      <publishTime>09/23/2024 12:44:50</publishTime>
+    </File>
+    <File Include="bin/Pastelaria.Web.Application.pdb">
+      <publishTime>09/23/2024 12:44:50</publishTime>
+    </File>
+    <File Include="bin/Pastelaria.Web.dll">
+      <publishTime>09/23/2024 12:44:54</publishTime>
+    </File>
+    <File Include="bin/Pastelaria.Web.pdb">
+      <publishTime>09/23/2024 12:44:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Integration.Web.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Integration.Web.Mvc.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Content/LoginStyle.css">
+      <publishTime>09/20/2024 15:27:28</publishTime>
+    </File>
+    <File Include="Content/Responsivo.css">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Content/stylesMenu.css">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Imagens/do-utilizador.png">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Imagens/FundoLogin.jpg">
+      <publishTime>09/20/2024 14:01:03</publishTime>
+    </File>
+    <File Include="Imagens/logoPastelaria.png">
+      <publishTime>09/20/2024 14:01:02</publishTime>
+    </File>
+    <File Include="Imagens/logo_SMN.png">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Lib/home/home.js">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Lib/usuario/usuario.js">
+      <publishTime>09/20/2024 16:36:46</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/19/2024 14:15:00</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Scripts/scriptMenu.js">
+      <publishTime>09/20/2024 14:53:22</publishTime>
+    </File>
+    <File Include="Views/Endereco/AdicionarEndereco.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Endereco/Index.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Endereco/_GridEnderecos.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Endereco/_LinhaGridEndereco.cshtml">
+      <publishTime>09/21/2024 18:21:17</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/20/2024 14:42:40</publishTime>
+    </File>
+    <File Include="Views/Home/Index2.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Home/_GridTestes.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Login/Index.cshtml">
+      <publishTime>09/21/2024 00:22:35</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout - Copy.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/21/2024 00:19:27</publishTime>
+    </File>
+    <File Include="Views/Sobre/Index.cshtml">
+      <publishTime>09/20/2024 15:43:25</publishTime>
+    </File>
+    <File Include="Views/Tarefa/AdicionarTarefa.cshtml">
+      <publishTime>09/21/2024 14:03:18</publishTime>
+    </File>
+    <File Include="Views/Tarefa/AtualizarTarefa.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Tarefa/Index.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Tarefa/_GridTarefas.cshtml">
+      <publishTime>09/22/2024 19:19:21</publishTime>
+    </File>
+    <File Include="Views/Telefone/AdicionarTelefone.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Telefone/_GridTelefones.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Telefone/_LinhaGridTelefone.cshtml">
+      <publishTime>09/21/2024 18:21:17</publishTime>
+    </File>
+    <File Include="Views/Usuario/Index.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Usuario/profile.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/Usuario/_Form.cshtml">
+      <publishTime>09/23/2024 12:01:32</publishTime>
+    </File>
+    <File Include="Views/Usuario/_GridUsuarios.cshtml">
+      <publishTime>09/23/2024 12:35:06</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/19/2024 14:14:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/23/2024 12:46:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

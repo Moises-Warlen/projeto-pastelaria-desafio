@@ -1,0 +1,105 @@
+﻿
+
+/* Responsividade para telas pequenas */
+@media (max-width: 768px) {
+main {
+     margin-left: 20px; /* Ajusta a margem esquerda do contêiner */
+    padding: 5px; /* Reduz o espaçamento interno do contêiner */
+}
+/*.container.mt-4 {
+    margin-top: 1.5rem;  Ajuste conforme necessário 
+    padding: 5px;  Ajuste o padding conforme necessário 
+}*/
+
+.container.mt-4 * {
+    font-size: 0.875rem; /* Ajuste o tamanho da fonte conforme necessário */
+    
+}
+
+
+
+/* Estilos específicos para o .jumbotron dentro da .container.mt-4 */
+.container.mt-4 .jumbotron.jumbotron-custom.text-center {
+    padding: 2px; /* Ajuste o padding do jumbotron conforme necessário */
+    background-color: #f8f9fa; /* Ajuste a cor de fundo se necessário */
+}
+
+/* Ajustar o tamanho e o estilo dos parágrafos dentro do .jumbotron */
+.container.mt-4 .jumbotron.jumbotron-custom.text-center p {
+    font-size: 0.875rem; /* Reduzir o tamanho da fonte dos parágrafos */
+    margin: 10px 0; /* Ajuste as margens dos parágrafos */
+    line-height: 1.4; /* Ajuste o espaçamento entre linhas */
+}
+
+/* Ajustar o tamanho e o estilo dos títulos h1 dentro do .jumbotron */
+.container.mt-4 .jumbotron.jumbotron-custom.text-center h1 {
+    font-size: 1.5rem; /* Ajuste o tamanho da fonte dos títulos */
+    margin: 20px 0; /* Ajuste as margens dos títulos */
+    font-weight: bold; /* Ajuste o peso da fonte se necessário */
+}
+
+/* Ajustar outros elementos dentro da .jumbotron se necessário */
+.container.mt-4 .jumbotron.jumbotron-custom.text-center * {
+    box-sizing: border-box; /* Inclua padding e bordas nas dimensões dos elementos */
+}
+
+
+
+
+
+    .table thead {
+        display: none; /* Oculta o cabeçalho da tabela */
+    }
+#tituloUsuarios {
+    font-size: 26px; /* Tamanho da fonte em pixels */
+}
+
+#tituloTarefa {
+    font-size: 24px; /* Tamanho da fonte em pixels */
+}
+
+    .table, .table tbody, .table tr, .table td {
+        display: block; /* Exibe os elementos da tabela como blocos */
+        width: 100%; /* Ocupa toda a largura disponível */
+    }
+
+    .table td {
+        position: relative; /* Relativa para o pseudo-elemento ::before */
+        padding-left: 1rem; /* Espaçamento à esquerda */
+        padding-right: 1rem; /* Espaçamento à direita */
+        text-align: left; /* Alinha o texto à esquerda */
+        border-bottom: 1px solid #dee2e6; /* Borda inferior entre as linhas */
+        margin-bottom: 0.5rem; /* Espaço abaixo das células */
+        font-size: 0.875rem; /* Reduz o tamanho da fonte para compactar o conteúdo */
+    }
+
+    .table td::before {
+        content: attr(data-label); /* Usa o valor do atributo data-label como rótulo */
+        position: relative; /* Posiciona o rótulo de forma relativa */
+        width: auto; /* O rótulo se adapta ao conteúdo */
+        padding-right: 0.5rem; /* Espaçamento interno do rótulo à direita */
+        font-weight: bold; /* Torna o rótulo em negrito */
+        white-space: nowrap; /* Impede a quebra de linha no rótulo */
+        top: 0; /* Alinha o rótulo ao topo da célula */
+        font-size: 0.875rem; /* Tamanho do rótulo semelhante ao conteúdo */
+        display: inline-block; /* Exibe o rótulo como um bloco inline */
+    }
+
+    /* Estilo para os botões de adicionar usuário */
+    #btnAddAdicionarUsuario {
+    display: flex;
+    justify-content: center; /* Centraliza o botão horizontalmente */
+    margin-bottom: 1rem; /* Espaço abaixo do botão */
+}
+
+    .btn-success {
+        border-radius: 0.25rem; /* Arredondar os cantos do botão */
+        padding: 0.25rem 0.75rem; /* Ajuste o padding para maior conforto */
+        font-size: 0.875rem; /* Reduz o tamanho da fonte do botão */
+    }
+
+    /* Estilo específico para o email */
+    .table td[data-label="Email"] {
+        word-break: break-word; /* Quebra o texto do email para evitar overflow */
+    }
+}
